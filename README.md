@@ -23,5 +23,4 @@
 
 <!-- Connect -->
 <h1 align="center">Connect with me</h2>
-<a href="https://www.linkedin.com/in/kushal-ghosh73/" target="_blank" rel="noreferrer"> <img src="https://www.facebook.com/LinkedInIndia/" alt="Java" width="40" height="40" align="center" /> </a>
-<p align="center">
+<a href="https://www.linkedin.com/in/kushal-ghosh73/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" alt="Java" width="40" height="40" align="center" /> </a>
