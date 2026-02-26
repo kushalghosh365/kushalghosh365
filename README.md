@@ -5,7 +5,7 @@
 <h5 align="center">
   A final year student persuing Btech in Computer Science.
 <h3 align="center">A passionate Software Engineer</h3>
-<img align="center" alt="coding"  width="800" height="300" src="https://camo.githubusercontent.com/4adf218513d040ee24022cbe5c054dc93bfa1c25350d3dca00edd6c0f7fe0ac4/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966"/>
+<img align="center" alt="coding"  width="800" height="300" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
 
 📫 How to reach me **rocketghosh5@gmail.com**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AyushiChopra02&label=Profile%20views&color=0e75b6&style=flat" alt="AyushiChopra02" /> </p>
