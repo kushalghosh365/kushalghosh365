@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Kushal Ghosh</h1>
 <h5 align="center">
-  A final year student persuing Btech in Computer Science.
+  A final year student persuing B.Tech in Computer Science.
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="center" alt="coding"  width="800" height="300" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
 
